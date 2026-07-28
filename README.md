@@ -15,7 +15,6 @@ Olá! Eu sou Daniel Matuzawa 👋
 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 📌 Projetos em destaque
 
@@ -34,5 +33,3 @@ Olá! Eu sou Daniel Matuzawa 👋
     srcset="https://github-readme-stats.vercel.app/api?username=DanielMatuzawa&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielMatuzawa&show_icons=true" />
-</picture>
